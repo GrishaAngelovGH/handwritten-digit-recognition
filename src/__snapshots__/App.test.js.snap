@@ -74,6 +74,9 @@ Object {
                   </div>
                 </div>
                 <div
+                  class="col-md-8 bg-white rounded"
+                />
+                <div
                   class="Toastify"
                 />
               </div>
@@ -152,6 +155,9 @@ Object {
                   </div>
                 </div>
               </div>
+              <div
+                class="col-md-8 bg-white rounded"
+              />
               <div
                 class="Toastify"
               />

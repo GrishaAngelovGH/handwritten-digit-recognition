@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import Canvas from '../Canvas'
+import BarChart from '../BarChart'
 
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
@@ -31,6 +32,10 @@ const DigitRecognition = () => {
         <div className="row">
           <div className="col-md-4">
             <Canvas width={150} height={150} onProcess={handleDataChange} onClear={handleClear} />
+          </div>
+
+          <div className="col-md-8 bg-white rounded">
+            <BarChart data={data} />
           </div>
 
           {message.length > 0 && (<h1 className="alert alert-success text-center mt-3">{message}</h1>)}
