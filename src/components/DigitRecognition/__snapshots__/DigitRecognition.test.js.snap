@@ -6,30 +6,22 @@ Object {
   "baseElement": <body>
     <div>
       <div
-        class="row g-0 bg"
+        class="row g-0 justify-content-center"
       >
+        <h1
+          class="bg-primary text-white rounded p-2 text-center"
+        >
+          Handwritten Digit Recognition with Tensorflow.js
+        </h1>
         <div
-          class="col-md-12"
+          class="col-md-10"
         >
           <div
-            class="row g-0 justify-content-center"
+            class="row"
           >
-            <h1
-              class="bg-primary text-white rounded p-2 text-center"
-            >
-              Handwritten Digit Recognition with Tensorflow.js
-            </h1>
             <div
-              class="col-md-10"
-            >
-              <div
-                class="row"
-              >
-                <div
-                  class="Toastify"
-                />
-              </div>
-            </div>
+              class="Toastify"
+            />
           </div>
         </div>
       </div>
@@ -37,30 +29,22 @@ Object {
   </body>,
   "container": <div>
     <div
-      class="row g-0 bg"
+      class="row g-0 justify-content-center"
     >
+      <h1
+        class="bg-primary text-white rounded p-2 text-center"
+      >
+        Handwritten Digit Recognition with Tensorflow.js
+      </h1>
       <div
-        class="col-md-12"
+        class="col-md-10"
       >
         <div
-          class="row g-0 justify-content-center"
+          class="row"
         >
-          <h1
-            class="bg-primary text-white rounded p-2 text-center"
-          >
-            Handwritten Digit Recognition with Tensorflow.js
-          </h1>
           <div
-            class="col-md-10"
-          >
-            <div
-              class="row"
-            >
-              <div
-                class="Toastify"
-              />
-            </div>
-          </div>
+            class="Toastify"
+          />
         </div>
       </div>
     </div>
