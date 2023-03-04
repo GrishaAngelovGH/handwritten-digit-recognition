@@ -68,17 +68,17 @@ const Canvas = ({ width, height, onProcess, onClear }) => {
   }, [])
 
   return (
-    <div className="row justify-content-center">
-      <div className="col-md-10">
-        <div className="row text-center">
-          <div className="col-md-12">
-            <canvas ref={canvasRef} className="draw-canvas" width={width} height={height}></canvas>
+    <div className='row justify-content-center'>
+      <div className='col-md-10'>
+        <div className='row text-center'>
+          <div className='col-md-12'>
+            <canvas ref={canvasRef} className='draw-canvas' width={width} height={height}></canvas>
           </div>
         </div>
-        <div className="row justify-content-center">
-          <div className="col-md-6">
-            <button disabled={!isDraw} className="btn btn-primary w-100 mt-1" onClick={handleProcess}><i className="bi bi-bar-chart-line h4"></i></button>
-            <button className="btn btn-primary w-100 mt-1" onClick={handleClear}><i className="bi bi-arrow-clockwise h4"></i></button>
+        <div className='row justify-content-center'>
+          <div className='col-md-6'>
+            <button disabled={!isDraw} className='btn btn-primary w-100 mt-1' onClick={handleProcess}><i className='bi bi-bar-chart-line h4'></i></button>
+            <button className='btn btn-primary w-100 mt-1' onClick={handleClear}><i className='bi bi-arrow-clockwise h4'></i></button>
           </div>
         </div>
       </div>
