@@ -14,3 +14,7 @@ After that is [loaded](https://www.tensorflow.org/js/tutorials/conversion/import
 
 ## MNIST Dataset Example
 ![MnistExamples](./MnistExamples.png)
+
+## The front-end project is using the following technologies:
+
+<img src="https://img.shields.io/badge/create--react--app-%23563D7C.svg?style=flat&logo=create-react-app&color=white" height="30"> <img src="https://img.shields.io/badge/babel--eslint--parser-%23563D7C.svg?style=flat&logo=babel&color=white" height="30"> <img src="https://img.shields.io/badge/React.JS-%23563D7C.svg?style=flat&logo=react&color=white" height="30"> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&color=white&logoColor=purple" height="30"> <img src="https://img.shields.io/badge/bootstrap--icons-%23563D7C.svg?style=flat&logo=bootstrap&color=white&logoColor=purple" height="30"> <img src="https://img.shields.io/badge/Tensorflow-311C87?style=flat&logo=tensorflow&color=white" height="30"> <img src="https://img.shields.io/badge/Chart.JS-F5788D.svg?style=flat&logo=chart.js&color=white&logoColor=F5788D" height="30"> <img src="https://img.shields.io/badge/react--chartjs--2-%23563D7C.svg?style=flat&logo=react&color=white" height="30"> <img src="https://img.shields.io/badge/react--toastify-311C87?style=flat&color=white" height="30">
