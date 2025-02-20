@@ -1,4 +1,4 @@
-import DigitRecognition from './components/DigitRecognition'
+import DigitRecognition from 'components/DigitRecognition'
 import './App.css'
 
 function App() {

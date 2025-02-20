@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
-import Canvas from '../Canvas'
-import BarChart from '../BarChart'
+import Canvas from 'components/Canvas'
+import BarChart from 'components/BarChart'
 
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'

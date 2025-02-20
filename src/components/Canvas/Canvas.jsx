@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 
-import { processCanvas, model } from '../../tensorflow'
+import { processCanvas, model } from 'tensorflow'
 
 import './Canvas.css'
 

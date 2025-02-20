@@ -1,7 +1,7 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
 exports[`should render DigitRecognition component 1`] = `
-Object {
+{
   "asFragment": [Function],
   "baseElement": <body>
     <div>
@@ -63,7 +63,14 @@ Object {
         </div>
         <div
           class="col-md-7 bg-white rounded"
-        />
+        >
+          <canvas
+            height="0"
+            role="img"
+            style="display: block; box-sizing: border-box; height: 0px; width: 0px;"
+            width="0"
+          />
+        </div>
         <div
           class="row"
         >
@@ -71,7 +78,11 @@ Object {
             class="col-md-12"
           />
         </div>
-        <div
+        <section
+          aria-atomic="false"
+          aria-label="Notifications Alt+T"
+          aria-live="polite"
+          aria-relevant="additions text"
           class="Toastify"
         />
       </div>
@@ -136,7 +147,14 @@ Object {
       </div>
       <div
         class="col-md-7 bg-white rounded"
-      />
+      >
+        <canvas
+          height="0"
+          role="img"
+          style="display: block; box-sizing: border-box; height: 0px; width: 0px;"
+          width="0"
+        />
+      </div>
       <div
         class="row"
       >
@@ -144,7 +162,11 @@ Object {
           class="col-md-12"
         />
       </div>
-      <div
+      <section
+        aria-atomic="false"
+        aria-label="Notifications Alt+T"
+        aria-live="polite"
+        aria-relevant="additions text"
         class="Toastify"
       />
     </div>
